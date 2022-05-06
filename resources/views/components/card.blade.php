@@ -6,7 +6,7 @@
         <div class="card-body">
           <h5 class="card-title">{{ $name }}</h5>
           <p class="card-text">{{ $email }}</p>
-          <a href="https://github.com/menorjanremiel/LaravelActivities">Go to my github repository</a>
+          <a href="https://github.com/menorjanremiel/midtermLaravel">Go to my github repository</a>
         </div>
       </div>
 </div>
