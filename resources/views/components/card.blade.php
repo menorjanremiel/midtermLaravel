@@ -1,10 +1,12 @@
-<div class="card">
-    <div class="card-header">
-      Midterm Hands on Exam
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Jan Remiel Menor</h5>
-      <p class="card-text">Welcome to my Web Home Page</p>
-      <a href="#" class="btn btn-primary">Go to my repository</a>
-    </div>
-  </div>
+<div class="pt-4">
+    <div class="card">
+        <div class="card-header">
+          Midterm Hands on Exam
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{ $name }}</h5>
+          <p class="card-text">{{ $email }}</p>
+          <a href="https://github.com/menorjanremiel/LaravelActivities">Go to my github repository</a>
+        </div>
+      </div>
+</div>
